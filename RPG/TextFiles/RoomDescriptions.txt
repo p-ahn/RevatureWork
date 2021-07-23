@@ -1,0 +1,32 @@
+RoomName: The Shattered Castle
+Number: 1
+Desc: You stand in the ruins of a shattered castle.
+Desc: All around you lies rubble. You can see
+Desc: what used to be a large entry way to the north.
+Desc: To the south lies a peaceful Glen.
+Exit: South 2
+Exit: North 6
+RoomName: The Peaceful Glen
+Number: 2
+Desc: This peaceful Glen is peaceful.
+Desc: The peacefulness of it all is making your head spin.
+Desc: The sun and the ocean breeze match with harmony.
+Desc: To the west lies the entrance to a Drow Mine.
+Exit: North 1
+Exit: West 3
+RoomName: Entrance to a Drow Mine.
+Number: 3
+Desc: The gently sloping plain rises sharply here as a hill rises to the west.
+Desc: There is a mine shaft west of you with a clearly
+Desc: defined pathway leading up and inside.
+Desc: It looks dark in there.
+Exit: East 2
+Exit: West 4
+RoomName: Inside the Drow Mine.
+Number: 4
+Desc: The walls here have been carved away by hand tools
+Desc: evidenced by the broken tools and machinery situated around you.
+Desc: A smoky odor hangs in the air
+Desc: to the east you see a mine shaft.
+Exit: East 3
+Exit: South 5
